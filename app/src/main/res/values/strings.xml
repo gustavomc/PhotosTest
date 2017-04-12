@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Photos Test</string>
+
+    <!-- Strings related to Main -->
+    <string name="take_photo">Tomar Foto</string>
+    <string name="see_photos">Ver Fotos</string>
+    <string name="save_data_success">Datos guardados con exito.</string>
+    <string name="save_data_fail">Ocurrio un error al guardar datos.</string>
+    <string name="cargando">Cargando&#8230;</string>
+
+    <!-- Strings related to permissions -->
+    <string name="permission_rationale_location">Permisos GPS necesarios para obtener ubicación.</string>
+    <string name="all_permissions_needed">Todos los permisos son necesarios.</string>
+
+    <!-- Strings related to list -->
+    <string name="photos_list">Lista de fotos</string>
+
+    <!-- Strings related to detail -->
+    <string name="picture_taken">La imagen fue tomada aqui:</string>
+    <string name="get_data_fail">Ocurrio un error al obtener los datos.</string>
+    <string name="file_fail">Ocurrio un error al procesar la imagen.</string>
+    <string name="map_fail">Ocurrio un error al cargar mapa.</string>
+
+</resources>
